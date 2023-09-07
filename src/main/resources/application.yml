@@ -1,0 +1,10 @@
+server:
+  port: 8081
+aws:
+  accessKey: AKIA2V5BIEZNLF4BUNFP
+  secretKey: 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
+  s3:
+    region: us-east-1
+    bucketName: pp-upload
+
+
